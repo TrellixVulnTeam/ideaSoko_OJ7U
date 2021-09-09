@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="91px" height="91px" viewBox="0 0 91 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>contraseña-icon</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Fibercorp-Security---Tablet---01-Scroll" transform="translate(-65.000000, -1579.000000)">
+            <g id="contraseña-icon" transform="translate(65.000000, 1579.000000)">
+                <path d="M90.4406,43.1582 C91.7936,69.8592 69.8596,91.7932 43.1586,90.4402 C20.2956,89.2822 1.7176,70.7052 0.5596,47.8422 C-0.7934,21.1402 21.1406,-0.7938 47.8416,0.5592 C70.7046,1.7182 89.2816,20.2952 90.4406,43.1582 L90.4406,43.1582 Z" id="Stroke-1" stroke="#D0D0D0"></path>
+                <path d="M57.7093,39.7642 C55.9213,41.5522 53.0233,41.5522 51.2353,39.7642 C49.4473,37.9762 49.4473,35.0782 51.2353,33.2902 C53.0233,31.5022 55.9213,31.5022 57.7093,33.2902 C59.4973,35.0782 59.4973,37.9762 57.7093,39.7642 L57.7093,39.7642 Z" id="Stroke-3" stroke="#0047A3"></path>
+                <path d="M51.235,39.7642 L40.167,50.8322" id="Stroke-5" stroke="#0047A3"></path>
+                <path d="M37.34,60.1314 L37.29,60.1244 L37.304,60.1674 L32.295,60.8644 L31.612,65.8594 L26.215,64.7764 L25.139,59.3854 L43.834,40.6904 C42.236,36.5974 43.089,31.7584 46.393,28.4544 C50.852,23.9954 58.092,23.9954 62.551,28.4544 C67.01,32.9134 67.003,40.1464 62.544,44.6044 C59.239,47.9094 54.408,48.7694 50.308,47.1634 L43.039,54.4324 L38.03,55.1294 L37.34,60.1314 L37.34,60.1314 Z" id="Stroke-7" stroke="#8F8F8F"></path>
+            </g>
+        </g>
+    </g>
+</svg>
